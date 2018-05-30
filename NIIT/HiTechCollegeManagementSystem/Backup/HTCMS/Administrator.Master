@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Administrator.master.cs" Inherits="HTCMS.Administrator" MasterPageFile="~/Site1.Master"%>
+
+<asp:Content ID="Content1" runat="server" 
+    contentplaceholderid="ContentPlaceHolder1">
+    <div style="height:100%; width:100%; background-color:#F7F6F3">
+                    <table style="height:100%; width:100%; background-color:#F7F6F3">
+                        <tr>
+                            <td style="text-align: center">
+                                <asp:HyperLink ID="HyperLink1" runat="server" 
+                                    NavigateUrl="~/Administrator/StudentsList.aspx">Students List</asp:HyperLink>
+                            </td>
+                            <td style="text-align: center">
+                                <asp:HyperLink ID="HyperLink2" runat="server" 
+                                    NavigateUrl="~/Administrator/FacultyList.aspx">Faculty List</asp:HyperLink>
+                            </td>
+                            <td style="text-align: center">
+                                <asp:HyperLink ID="HyperLink3" runat="server" 
+                                    NavigateUrl="~/Administrator/CoursesList.aspx">Courses List</asp:HyperLink>
+                            </td>
+                            <td style="text-align: center">
+                                <asp:HyperLink ID="HyperLink4" runat="server" 
+                                    NavigateUrl="~/Administrator/UsersList.aspx">Users List</asp:HyperLink>
+                            </td>
+                        </tr>
+    </table>
+</div>
+</asp:Content>
+<asp:Content ID="Content2" runat="server" 
+    contentplaceholderid="ContentPlaceHolder2">
+
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+    </asp:ContentPlaceHolder>
+
+</asp:Content>

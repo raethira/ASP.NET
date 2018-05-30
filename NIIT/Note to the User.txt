@@ -1,0 +1,9 @@
+1)Please use Visual Studio 2008 for running the solution.
+2)Attach the HTCMS.mdf file present in SupportingDatabase folder onto your server and change the connection string in the web.config file. Use SQL Sever 2008.
+3)The documentation provides an overview of the project and its various features. Do read it for any reference.
+
+Developer: Rahul E
+Reg# - R140030100722
+Student id : S140030100308
+Batch  - B140120
+NIIT

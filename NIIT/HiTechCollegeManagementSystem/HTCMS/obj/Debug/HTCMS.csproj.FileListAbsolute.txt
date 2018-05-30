@@ -1,0 +1,12 @@
+D:\Projects_ASP\HTCMS\HTCMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects_ASP\HTCMS\HTCMS\bin\HTCMS.dll
+D:\Projects_ASP\HTCMS\HTCMS\bin\HTCMS.pdb
+D:\Projects_ASP\HTCMS\HTCMS\obj\Debug\HTCMS.dll
+D:\Projects_ASP\HTCMS\HTCMS\obj\Debug\HTCMS.pdb
+C:\Users\RAHUL\Desktop\ASP\NIIT\asp.net proj\rahul  proj2\HiTechCollegeManagementSystem\HTCMS\bin\HTCMS.dll.config
+C:\Users\RAHUL\Desktop\ASP\NIIT\asp.net proj\rahul  proj2\HiTechCollegeManagementSystem\HTCMS\bin\HTCMS.dll
+C:\Users\RAHUL\Desktop\ASP\NIIT\asp.net proj\rahul  proj2\HiTechCollegeManagementSystem\HTCMS\bin\HTCMS.pdb
+C:\Users\RAHUL\Desktop\ASP\NIIT\asp.net proj\rahul  proj2\HiTechCollegeManagementSystem\HTCMS\obj\Debug\HTCMS.csprojAssemblyReference.cache
+C:\Users\RAHUL\Desktop\ASP\NIIT\asp.net proj\rahul  proj2\HiTechCollegeManagementSystem\HTCMS\obj\Debug\HTCMS.csproj.CoreCompileInputs.cache
+C:\Users\RAHUL\Desktop\ASP\NIIT\asp.net proj\rahul  proj2\HiTechCollegeManagementSystem\HTCMS\obj\Debug\HTCMS.dll
+C:\Users\RAHUL\Desktop\ASP\NIIT\asp.net proj\rahul  proj2\HiTechCollegeManagementSystem\HTCMS\obj\Debug\HTCMS.pdb
